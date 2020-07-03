@@ -1,0 +1,16 @@
+{
+  "name": "projectify",
+  "version": "1.0.0",
+  "description": "Projectify - This is a project management platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Pratik Bidkar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5"
+  }
+}
